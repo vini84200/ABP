@@ -1,0 +1,7 @@
+*.o
+out
+build
+bin
+obj
+main_abp
+
